@@ -60,7 +60,14 @@ se creo holamundo.java<br>
 se creo 3 commits<br>
 - 1 commit<br>
 <td><img src="commit1.PNG" alt=" " style="width:100%; height:auto"/></td>
-## 2 SOLUCION DEL CUESTIONARIO 
+- 2 commit<br>
+<td><img src="commit2.PNG" alt=" " style="width:100%; height:auto"/></td>
+
+- 3 commit<br>
+<td><img src="commit3.PNG" alt=" " style="width:100%; height:auto"/></td>
+
+
+##  2 SOLUCION DEL CUESTIONARIO 
 - Git
 - GitHub
 
