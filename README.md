@@ -55,11 +55,11 @@
 
 - SOLUCION INDIVIDUAL<br>
 Chambi orosco luis fernando<br>
-creacion de repositorio individual  https://github.com/luis-fernando-chambi-orosco/web2.git
+creacion de repositorio individual  https://github.com/luis-fernando-chambi-orosco/web2.git <br>
 se creo holamundo.java<br>
-se creo 3 commits
+se creo 3 commits<br>
 - 1 commit<br>
-
+<td><img src="commit1.PNG" alt=" " style="width:100%; height:auto"/></td>
 ## 2 SOLUCION DEL CUESTIONARIO 
 - Git
 - GitHub
