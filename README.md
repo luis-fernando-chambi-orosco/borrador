@@ -1,28 +1,3 @@
-<div align="center">
-<table>
-    <theader>
-        <tr>
-            <td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
-            <th>
-                <span style="font-weight:bold;">UNIVERSIDAD NACIONAL DE SAN AGUSTIN</span><br />
-                <span style="font-weight:bold;">FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS</span><br />
-                <span style="font-weight:bold;">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</span>
-            </th>
-            <td><img src="https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true" alt="ABET" style="width:50%; height:auto"/></td>
-        </tr>
-    </theader>
-    <tbody>
-        <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
-        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
-    </tbody>
-</table>
-</div>
-
-<div align="center">
-<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
-<span>(formato estudiante)</span>
-</div>
-
 
 <table>
 <theader>
@@ -52,11 +27,8 @@
 
 ## SOLUCION y RESULTADOS
 ## 1 SOLUCION DE EJERCICIOS /PROBLEMAS 
+Creacion  de un repositorio llamado web2<br>
 
-- SOLUCION INDIVIDUAL<br>
-Chambi orosco luis fernando<br>
-Creacion de repositorio individual  https://github.com/luis-fernando-chambi-orosco/web2.git <br>
-Se creo holamundo.java<br>
 Se creo 3 commits<br>
 - Primer commit<br>
 Probando java con el programa holamundo<br>
