@@ -55,9 +55,9 @@
 
 - SOLUCION INDIVIDUAL<br>
 Chambi orosco luis fernando<br>
-creacion de repositorio individual  https://github.com/luis-fernando-chambi-orosco/web2.git <br>
-se creo holamundo.java<br>
-se creo 3 commits<br>
+Creacion de repositorio individual  https://github.com/luis-fernando-chambi-orosco/web2.git <br>
+Se creo holamundo.java<br>
+Se creo 3 commits<br>
 - Primer commit<br>
 Probando java con el programa holamundo<br>
 <td><img src="commit1.PNG" alt=" " style="width:100%; height:auto"/></td>
