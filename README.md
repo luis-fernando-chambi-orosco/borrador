@@ -58,12 +58,16 @@ Chambi orosco luis fernando<br>
 creacion de repositorio individual  https://github.com/luis-fernando-chambi-orosco/web2.git <br>
 se creo holamundo.java<br>
 se creo 3 commits<br>
-- 1 commit<br>
+- Primer commit<br>
+Probando java con el programa holamundo<br>
 <td><img src="commit1.PNG" alt=" " style="width:100%; height:auto"/></td>
-- 2 commit<br>
+
+- Segundo commit<br>
+Agregando mensaje de bienvenida al curso de programacion web2<br>
 <td><img src="commit2.PNG" alt=" " style="width:100%; height:auto"/></td>
 
-- 3 commit<br>
+- Tercer commit<br>
+Agregando una firma personal<br>
 <td><img src="commit3.PNG" alt=" " style="width:100%; height:auto"/></td>
 
 
